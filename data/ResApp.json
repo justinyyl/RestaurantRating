@@ -1,0 +1,62 @@
+{"restaurants": [
+    {
+        "name": "bruce",
+        "environment scores": [],
+        "dishes": [
+            {
+                "appearances": [7],
+                "tastes": [5],
+                "name": "honey moon",
+                "qualities": [8]
+            },
+            {
+                "appearances": [],
+                "tastes": [],
+                "name": "spicy sun",
+                "qualities": []
+            }
+        ]
+    },
+    {
+        "name": "apm",
+        "environment scores": [{
+            "ambience": 3,
+            "serviceQuality": 7,
+            "cleanliness": 8
+        }],
+        "dishes": [{
+            "appearances": [4],
+            "tastes": [7],
+            "name": "roasted beef",
+            "qualities": [9]
+        }]
+    },
+    {
+        "name": "apple",
+        "environment scores": [],
+        "dishes": []
+    },
+    {
+        "name": "sun",
+        "environment scores": [{
+            "ambience": 5,
+            "serviceQuality": 5,
+            "cleanliness": 5
+        }],
+        "dishes": [{
+            "appearances": [
+                7,
+                5
+            ],
+            "tastes": [
+                6,
+                8
+            ],
+            "name": "sun rise",
+            "qualities": [
+                4,
+                7
+            ]
+        }]
+    }
+]}
