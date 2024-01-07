@@ -1,0 +1,14 @@
+{"restaurants": [{
+    "name": "apple",
+    "environment scores": [{
+        "ambience": 4,
+        "serviceQuality": 5,
+        "cleanliness": 6
+    }],
+    "dishes": [{
+        "appearances": [4],
+        "tastes": [3],
+        "name": "juice",
+        "qualities": [5]
+    }]
+}]}
